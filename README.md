@@ -5,7 +5,7 @@ Privacy Preserving Inpainting for Visual Localization. The paper of the project 
 Saad Himmi*, Oguzhan Ilter*, François Pailleau, Roland Siegwart, Berta Bescos^, Cesar Cadena^
 
 *Contributed equally to this work. 
-^equally this project.
+^Supervised equally this project.
 
 
 # Abstract 
